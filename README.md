@@ -49,10 +49,10 @@ Below are the results after 4 separate training sessions using the hyperparams l
 #### Training Session Gamma -5.0 (Gaussian)
 
 Training loss curve 
-<img src="fig/gaus-multi-loss.svg">
+<img src="fig/gaus-multi-loss.png">
 
 Training accuracy curve 
-<img src="fig/gaus-multi-accuracy.svg">
+<img src="fig/gaus-multi-accuracy.png">
 
 Cost and accuracy output every 20 epochs:
 ```
@@ -74,17 +74,17 @@ Training data accuracy:  0.91
 ```
 
 Results plotted
-<img src="fig/gaus-multi-result.svg">
+<img src="fig/gaus-multi-result.png">
 
 #### Training Session Gamma -50.0 (Gaussian)
 
 Increasing the gamma value to -50 improves results
 
 Training loss curve 
-<img src="fig/gaus-multi-loss2.svg">
+<img src="fig/gaus-multi-loss2.png">
 
 Training accuracy curve 
-<img src="fig/gaus-multi-accuracy2.svg">
+<img src="fig/gaus-multi-accuracy2.png">
 
 Cost and accuracy output every 20 epochs:
 ```
@@ -106,4 +106,4 @@ Training data accuracy:  0.95
 ```
 
 Results plotted
-<img src="fig/gaus-multi-result2.svg">
+<img src="fig/gaus-multi-result2.png">
